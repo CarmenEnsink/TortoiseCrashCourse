@@ -1,8 +1,8 @@
-def yourfunction(input):
-	# Comment on what kind of data your input should to be: input should be str datatype
-	# Comment on what kind of data your output is going to be: output is str datatype
-	# Comment on what you do within this function: add two strings together
+def yourfunction(input_1, input_2):
+	# Comment on what kind of data your input should to be: input should be of float datatype
+	# Comment on what kind of data your output is going to be: output is float datatype
+	# Comment on what you do within this function: add two numbers
 
-	output = "do something with " + input
+	output = input_1 + input_2 
 
 	return output
