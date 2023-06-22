@@ -1,0 +1,3 @@
+[submodule "omcs_analysis"]
+	path = omcs_analysis
+	url = https://github.com/CarmenEnsink/OMCS_GaitAnalysis
